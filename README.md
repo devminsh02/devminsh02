@@ -1,9 +1,5 @@
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devminsh02&layout=compact&theme=algolia)
-
-
----
+  
 
 ### 🔧 Tech Stack
 
