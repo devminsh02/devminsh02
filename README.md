@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>📬 Contact</h2>
+  <h1>📬 Contact</h1>
   
   [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0231-7074)
 
@@ -7,7 +7,7 @@
 
 
 ### 
-<h2>🔧 Tech Stack</h2>
+<h1>🔧 Tech Stack</h1>
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="center">📊 GitHub Profile Stats</h2>
+<h1 align="center">📊 GitHub Profile Stats</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devminsh02&style=flat&color=9A5AFF" alt="views"/>
