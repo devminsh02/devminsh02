@@ -1,6 +1,8 @@
 <div align="center">
   <h1>📬 Contact</h1>
   
+  [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0231-7074)
+
   [![Contact](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:devminsh02@smail.kongju.ac.kr) [![Contact](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/sun-hongmin/) 
 
 
