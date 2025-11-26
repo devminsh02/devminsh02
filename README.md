@@ -1,7 +1,7 @@
 <div align="center">
   <h1>📬 Contact</h1>
   
-  [![Contact](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:devminsh02@smail.kongju.ac.kr) [![Contact](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/sun-hongmin/)
+  [![Contact](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:devminsh02@smail.kongju.ac.kr) [![Contact](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/sun-hongmin/) 
 
 
 ### 
