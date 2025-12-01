@@ -17,12 +17,4 @@
 
 ###
 
-<h1 align="center">📊 GitHub Profile Stats</h1>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devminsh02&style=flat&color=9A5AFF" alt="views"/>
-</div>
-
-
-</div>
 
