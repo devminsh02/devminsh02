@@ -16,5 +16,4 @@
 <img src="https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white" />
 
 ###
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devminsh02&layout=compact)
